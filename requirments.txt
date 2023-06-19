@@ -1,0 +1,7 @@
+Install the following libraries
+
+neo4j
+streamlit
+PIL
+openai
+
