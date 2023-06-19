@@ -11,7 +11,7 @@ This is a Web-based Question-Answering System (QAS) powered by Knowledge Graph (
 - Run `TRisKG Cypher Code.cql` file on Neo4j desktop or sand box.
 
 ##  QASTRisk Development
-- download `QASTRisk (main)` folder.
+- Download `QASTRisk (main)` folder.
 - Install the libraries in `requirement.txt`.
 - Paste your `OPENAI SECRETE KEY` in `secrets.toml` file inside `.streamlit` folder.
 - Paste your Neo4j database details in `driver.py` file.
