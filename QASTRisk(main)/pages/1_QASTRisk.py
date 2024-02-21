@@ -34,7 +34,7 @@ st.markdown(
 def generate_response(prompt, cypher=True):
     if cypher:
         completions = openai.Completion.create(
-            engine="text-davinci-003",
+            engine="INSERT GPT MODEL",
             prompt=examples + "\n#" + prompt,
             max_tokens=1000,
             n=1,
